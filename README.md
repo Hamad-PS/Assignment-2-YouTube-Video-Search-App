@@ -46,20 +46,6 @@ and displays them in a `RecyclerView` — built in **Java**.
 
 </div>
 
----
-
-## 📱 Screenshots
-
-<div align="center">
-
-<!-- Replace with your own images -->
-<img src="screenshots/search.png" width="30%" />
-&nbsp;&nbsp;
-<img src="screenshots/results.png" width="30%" />
-
-</div>
-
----
 
 ## 📂 Project Structure
 
@@ -111,7 +97,7 @@ The `ProgressBar` shows during loading and hides once a final state
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/youtube-search-app.git
+git clone https://github.com/Hamad-PS/Assignment-2-YouTube-Video-Search-App.git
 ```
 
 1. Open the project in Android Studio and let Gradle sync.
